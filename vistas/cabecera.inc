@@ -82,31 +82,28 @@
                     <div class="submenu">
                         <div class="submenu-interno" id="submenu-pruductos">
                             <div>
-                                <h4>Contenedores & Protectores</h4>
+                                <h4>Mezcladores</h4>
                                 <ul>
-                                    <li><a href="?pagina=productos">Protector Manometro</a></li>
-                                    <li><a href="?pagina=productos">Protector Potenciometro Landi-Renzo</a></li>
-                                    <li><a href="?pagina=productos">Contenedor Hermetico Tipo A</a></li>
-                                    <li><a href="?pagina=productos">Y muchos mas....</a></li>
+                                    <li><a href="?pagina=mezcladores">Amplia gama de mezcladores para todas las marcas y modelos de automovil</a></li>
+                                    
+                                    <li><a href="?pagina=mezcladores">Ver mas....</a></li>
                                 </ul>
                             </div>
                             <div>
                                 <h4>Accesorios</h4>
                                 <ul>
-                                    <li><a href="?pagina=productos">Protección</a></li>
-                                    <li><a href="?pagina=productos">Electronicos</a></li>
-                                    <li><a href="?pagina=productos">Filtros de 5a Generación</a></li>
                                     <li><a href="?pagina=productos">Racores</a></li>
-                                    <li><a href="?pagina=productos">Y muchos mas....</a></li>
+                                    <li><a href="?pagina=productos">Tees</a></li>
+                                    <li><a href="?pagina=productos">Boquillas</a></li>
+                                    <li><a href="?pagina=productos">Ver mas....</a></li>
                                 </ul>
                             </div>
                             <div>
-                                <h4 id="mezclador">Mezcladores</h4>
+                                <h4 id="mezclador">Contenedores & Protectores</h4>
                                 <ul>
-                                    <li><a href="?pagina=mezcladores">BMW</a></li>
-                                    <li><a href="?pagina=mezcladores">Chevrolet</a></li>
-                                    <li><a href="?pagina=mezcladores">Citroën</a></li>
-                                    <li><a href="?pagina=mezcladores">Y muchos mas....</a></li>
+                                    <li><a href="?pagina=productos">Contenedores hermeticos para valvulas</a></li>
+                                    <li><a href="?pagina=productos">Protectores para manometros</a></li>
+                                    <li><a href="?pagina=productos">Ver mas....</a></li>
                                 </ul>
                             </div>
 
@@ -126,7 +123,7 @@
                                 <h4>Información de contacto</h4>
                                 <hr />
                                 <article>
-                                    Dirección Calle 145A # 45A-07 Bogotá Teléfonos: (57-1) 258 4552 (57-1) 258 2629 (57) Celular: 315 8040323 - 315 3091769<br />
+                                    Dirección Calle 145A # 45A-07 <br /> Bogotá D.C. Colombia <br />Telefonos : (+ 57-1) 258 4552 <br />(+ 57-1) 258 2629 <br/> Celular:(+ 57) 315 8040323 -<br /> (+ 57) 315 3091769<br />
                                     E-mail :ssmagdala@yahoo.com
                                 </article>
                                 <hr />

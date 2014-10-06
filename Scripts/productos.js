@@ -70,5 +70,13 @@
     $("#img-69").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
     $("#img-70").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
     $("#img-71").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
+    $("#img-72").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
+    $("#img-73").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
+    $("#img-74").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
+    $("#img-75").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
+    $("#img-76").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
+    $("#img-77").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
+    $("#img-78").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
+    $("#img-79").elevateZoom({ zoomType: "lens", lensShape: "round", lensSize: 200 });
 }
 zoomProductos();

@@ -7,9 +7,9 @@
                 <h4>Información de contacto</h4>
 
                 <article>
-                    Dirección Calle 145A # 45A-07 Bogotá
+                    Dirección Calle 145A # 45A-07 Bogotá D.C. - Colombia
                     <br />
-                    Teléfonos: (57-1) 258 4552 (57-1) 258 2629 (57) Celular: 315 8040323 - 315 3091769<br />
+                    Teléfonos: (+ 57-1) 258 4552 (+ 57-1) 258 2629 Celular: (+ 57) 315 8040323 - (+ 57) 315 3091769<br />
                     E-mail :ssmagdala@yahoo.com
                     <p>SSMGAS 2014 Copyright &copy Todos los derechos reservados</p>
                     <p>Diseñado y Desarrollado por MohanSoft &copy Todos los derechos reservados</p>
